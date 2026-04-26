@@ -209,10 +209,10 @@
         Gaming+ {
             display-name = "Game+";
             bindings = <
-        &trans  &kp N7        &kp N8        &kp N9            &kp T        &trans  &trans  &trans  &trans  &trans
-        &trans  &kp NUMBER_4  &kp N5        &kp NUMBER_6      &kp G        &trans  &trans  &trans  &trans  &trans
-&trans  &kp M   &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3      &kp B        &trans  &trans  &trans  &trans  &trans  &trans
-                              &mo 5         &kp LEFT_CONTROL  &kp SPACE    &trans  &trans  &trans
+        &trans  &kp N7        &kp N8            &kp N9        &kp T        &trans  &trans  &trans  &trans  &trans
+        &trans  &kp NUMBER_4  &kp N5            &kp NUMBER_6  &kp G        &trans  &trans  &trans  &trans  &trans
+&trans  &kp M   &kp NUMBER_1  &kp NUMBER_2      &kp NUMBER_3  &kp B        &trans  &trans  &trans  &trans  &trans  &trans
+                              &kp LEFT_CONTROL  &mo 5         &kp SPACE    &trans  &trans  &trans
             >;
         };
     };
